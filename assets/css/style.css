@@ -15,7 +15,7 @@
     --color-gray1: #3d4143;
     --color-gray2: #9c9d9d;
     --color-white: #f6f6f6;
-    --color-destaque1: #e7fc00;
+    --color-destaque1: #0076fc;
     --color-destaque2: #728e6f;
 }
 
@@ -133,7 +133,7 @@ a {
     position: fixed;
     top: 0;
     width: 100vw;
-    padding: 2rem 1.2rem;
+    padding: 1rem 1.2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
